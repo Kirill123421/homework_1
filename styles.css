@@ -1,0 +1,101 @@
+body{
+    background-color: #040C18;
+   }
+   .menu-list {
+       display: flex;
+       justify-content: center;
+       list-style: none;
+       margin-top: 30px;
+       font-size: 24px;
+       margin-left: 420px;
+   }
+   .menu-item {
+       font-size: 14px;
+       padding-left: 34px;
+       color: white;
+       align-items: center;
+       text-transform: uppercase;
+   }
+   .container{
+       padding: 10px 160px;
+   }
+   .header_content{
+       display: flex
+   }
+   .container{
+           padding: 10px 160px;
+       
+       }
+       .header_content{
+           display: flex
+       }
+       p, h1, h3 {
+         color: #81AFDD;
+         }
+         
+         .container {
+           margin: 10px 75px 10px 155px
+         }
+   
+   
+         
+         .logo_cont_img {
+           width: 140px;
+           height: 80px;
+           margin-left: 5px;
+         }
+         
+         .content_text{
+           display: flex;
+           position: relative;
+         }
+         
+         .content_text_right {
+         
+         }
+         
+         .content_header{
+           font-weight: 800;
+           font-size: 62px;
+           line-height: 75px;
+           width: 614px;
+           height: 225px;
+           margin: 5px;
+         }
+         
+         .text_bolt{
+           font-weight: 400;
+           font-size: 72px;
+           line-height: 96px;
+           margin: 0 0 12px;
+         }
+         
+         .text_header{
+           width: 508px;
+           font-weight: 400;
+           font-size: 18px;
+           line-height: 21px;
+           margin-bottom: 41px;
+         }
+         
+         .btn_header {
+           background: #052D56;
+           border-radius: 5px 0px 0px 5px;
+           border: 1px solid #8E32C6;
+           height: 67px;
+         }
+         
+         .btn_link{
+           font-weight: 400;
+           font-size: 24px;
+           line-height: 28px;
+           color: #FFFFFF;
+           text-decoration: none;
+           padding: 20px 60px;
+         }
+         
+         .content_text_left{
+           position: absolute;
+           width: 840px;
+           right: 55px;
+         }
